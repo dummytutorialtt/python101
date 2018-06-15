@@ -1,4 +1,4 @@
 pandas
 numpy
-ipywidgets==6.0.0
+ipywidgets
 matplotlib
